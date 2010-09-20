@@ -1,0 +1,2 @@
+content		xslow		chrome/content/
+overlay		chrome://yslow/content/browser.xul		chrome://xslow/content/browser.xul
